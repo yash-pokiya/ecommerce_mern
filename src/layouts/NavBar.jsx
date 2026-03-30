@@ -49,7 +49,7 @@ const Navbar = () => {
           {/* logo */}
           <div className="flex justify-center items-center gap-x-2">
             <img
-              src="/logo.png"
+              src="../public/logo.png"
               className="w-20 object-cover"
               alt="Logo"
             />
